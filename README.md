@@ -1,5 +1,5 @@
 # Jogo da Velha
-Projeto desenvolvido na platarforma DIO, com a finalidade de estudar a linguagem Javascript.
+Projeto desenvolvido na plataforma DIO, com a finalidade de estudar a linguagem Javascript.
 
 Clique <a href="https://isabellacpmelo.github.io/jogo-da-velha/">aqui</a> para acessar o projeto.
 
